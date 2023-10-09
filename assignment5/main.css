@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(10, 48, 90)
+}
+.cosmatic{
+    text-align: center;
+}
+#topic1{
+    font-size: 25px;
+    color: white;
+}
+#comment1{
+    font-size: 25px;
+    color: white;
+}
+#comment2{
+    font-size: 25px;
+    color: white;
+}
+h1{
+    font-size: 30px;
+    color: #C9B69A;
+}
